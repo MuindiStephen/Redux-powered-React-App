@@ -12,3 +12,4 @@ the application
   - Reducer
   - store
   - state
+  - react-redux
